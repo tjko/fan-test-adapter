@@ -10,7 +10,7 @@ C1,1,4.7uF 35V (DNF),CP,Capacitor_THT:CP_Radial_D10.0mm_P2.50mm_P5.00mm,,,,
 "D2, D3, D7,",3,SBRT5A50SA,D,Diode_SMD:D_SMA_Handsoldering,Diode,,,C264107
 "D4, D11, D12,",3,FM4007W,D,Diode_SMD:D_SMA,Diode,,,C402244
 "D5, D6, D8,",3,LED,LED,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Light emitting diode,,,C434432
-"DC1, DC2, DC3",3,DC Jack,Barrel_Jack_Switch,Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002,DC Barrel Jack with an internal switch,,,
+"DC1, DC2, DC3",3,DC Jack,Barrel_Jack_Switch,Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002,DC Barrel Jack with an internal switch,,,C720558
 "J3, J4, J7, J9",4,JST XH,Conn_01x02_Male,Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,,,C158012
 "J5, J6, J8, J10",4,JST PH,Conn_01x02_Male,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,,,,C131337
 "J11, J12",2,47053-1000,Fan_CPU_4pin,Connector:FanPinHeader_1x04_P2.54mm_Vertical,"CPU Fan, tacho output, PWM input, 4-pin connector",Molex,538-47053-1000,
