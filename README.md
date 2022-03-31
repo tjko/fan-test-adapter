@@ -2,7 +2,7 @@
 Adapter PCB board for easily testing PC (PWM) fans.
 
 Adapter was created to simplify characterising PC fans. It's mainly meant for PWM fans, but can also be useful for 3-pin PC fans. Adapter also has common JST connectors for common 2-pin fans.
-This adapter was used in development of [FanPico](https://github.com/tjko/fanpico/) to "emulate" motherboard FAN outputs.
+This adapter was used in development of [Fanpico](https://github.com/tjko/fanpico/) to "emulate" motherboard FAN outputs.
 
 Adapter is meant to be used with
 * 3 channel programmable power supply (but will work fine with 1 or 2 channel PSUs)
