@@ -66,4 +66,6 @@ Adapter generates 3.3V TTL signal from the open collector tachometer output of t
 Kerber files ready to be sent to a PCB maker (like JLCPCB, etc):
 * [PCB Version 1.2](kerbers/fan-test-adapter-v1.2.zip)
 
+### Where to buy?
+Currently this is only a DIY project. However PCBs are occasionally available (in limited quantities) at: [eBay](https://www.ebay.com/usr/oh6lxv)
 
